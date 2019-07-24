@@ -11,7 +11,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z4to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://www.sip-bousai.jp/tiles/rainfall1km/20190719090000/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://www.sip-bousai.jp/tiles/rainfall1km/20190724080000/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <TileMatrixSet>
 <ows:Identifier>z4to10</ows:Identifier>
